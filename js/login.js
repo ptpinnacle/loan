@@ -15,7 +15,7 @@ if(dd<10)
     user='ID-Kh0'+dd;
 }  
 
-if(dd>10)
+if(dd>=10)
 {
     pass='IRsP'+dd;
     user= 'ID-pTp'+dd;
