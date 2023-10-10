@@ -15,19 +15,19 @@ if(dd<10)
     user='ID-Kh0'+dd;
 }  
 
-if(dd>=10)
+if(dd<15)
 {
     pass='IRsP'+dd;
     user= 'ID-pTp'+dd;
 }
 
-if(dd>15)
+if(dd<20)
 {
     pass='IySP'+dd;
     user= 'ID-ZfU'+dd;
 }
 
-if(dd>20)
+if(dd<40)
 {
     pass='wVmP'+dd;
     user= 'ID-pJg'+dd;
